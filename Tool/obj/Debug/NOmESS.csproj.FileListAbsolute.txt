@@ -1,0 +1,12 @@
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\bin\Debug\NOmESS.exe
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\bin\Debug\NOmESS.pdb
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\Tool.Done.resources
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\Tool.PopupOptionalParams.resources
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\NOmESS.Properties.Resources.resources
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\NOmESS.csproj.GenerateResource.Cache
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\NOmESS.exe
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\NOmESS.pdb
+C:\Users\temu\Documents\Visual Studio 2008\Projects\NOmESS\Tool\obj\Debug\Tool.MainForm.resources
+D:\NOmESS\Tool\obj\Debug\NOmESS.exe
+D:\NOmESS\Tool\obj\Debug\NOmESS.pdb
